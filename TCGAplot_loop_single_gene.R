@@ -3,8 +3,8 @@ library(TCGAplot)
 library(beepr)
 
 # ====== USER SETTINGS ======
-gene <- "AIFM2"  # Change this to your gene of interest
-output_dir <- "TCGA_plots_AIFM2"  # Output folder
+gene <- "ATAD2"  # Change this to your gene of interest
+output_dir <- "TCGA_plots_ATAD2"  # Output folder
 
 # ====== SETUP ======
 if (!dir.exists(output_dir)) {
